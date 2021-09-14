@@ -10,9 +10,7 @@
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- N/A
 
 ## Live Demo
 
@@ -28,17 +26,19 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- To run this project you need to install git version control in your laptop
 ### Setup
-
+- Open terminal and redirect to where you what to clone the project in your local computer
+- Run `git clone https://github.com/Ntare22/hello-microverse.git` in your terminal
+- Find the cloned project, enter the folder and click index.html
 ### Install
-
+- N/A
 ### Usage
-
+- N/A
 ### Run tests
-
+- N/A
 ### Deployment
-
+- N/A
 
 
 ## Authors
